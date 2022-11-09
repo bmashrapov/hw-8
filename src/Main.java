@@ -49,8 +49,7 @@ public class Main {
                 System.out.print(roadLenght[i]);
         }// ex 3.3
         System.out.println();
-        //ex 4
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 3; i++) {//ex4
             if (b[i] % 2 != 0) {
                 b[i] += 1;
             }
